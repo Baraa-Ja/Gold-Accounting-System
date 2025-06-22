@@ -1,0 +1,26 @@
+D:\Gold Project\WindowsFormsApp1\obj\Debug\Presentation Layer.csproj.AssemblyReference.cache
+D:\Gold Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Gold Project\WindowsFormsApp1\obj\Debug\Presentation Layer.csproj.GenerateResource.cache
+D:\Gold Project\WindowsFormsApp1\obj\Debug\Presentation Layer.csproj.CoreCompileInputs.cache
+D:\Gold Project\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Gold Project\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Gold Project\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Gold Project\WindowsFormsApp1\bin\Debug\Bussiness Layer.dll
+D:\Gold Project\WindowsFormsApp1\bin\Debug\DataBase Layer.dll
+D:\Gold Project\WindowsFormsApp1\bin\Debug\Bussiness Layer.pdb
+D:\Gold Project\WindowsFormsApp1\bin\Debug\DataBase Layer.pdb
+D:\Gold Project\WindowsFormsApp1\obj\Debug\Presenta.B0A29D85.Up2Date
+D:\Gold Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Gold Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Gold Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frm_DollarBox.resources
+D:\Gold Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frm_SyrianBox.resources
+D:\Gold Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmMainForm.resources
+D:\Gold Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frm_GoldVaults.resources
+D:\Gold Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frm_Customers.resources
+D:\Gold Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frm_AddNewTransaction.resources
+D:\Gold Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmAddPayment.resources
+D:\Gold Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frm_AddDelivery.resources
+D:\Gold Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmAddEditCustomer.resources
+D:\Gold Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frm_Transactions.resources
+D:\Gold Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frm_SerachForCustomer.resources
+D:\Gold Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frm_TransactionBills.resources

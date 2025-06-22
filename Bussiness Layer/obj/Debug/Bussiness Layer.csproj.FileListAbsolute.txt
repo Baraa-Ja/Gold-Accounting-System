@@ -1,0 +1,9 @@
+D:\Gold Project\Bussiness Layer\obj\Debug\Bussiness Layer.csproj.AssemblyReference.cache
+D:\Gold Project\Bussiness Layer\obj\Debug\Bussiness Layer.csproj.CoreCompileInputs.cache
+D:\Gold Project\Bussiness Layer\bin\Debug\Bussiness Layer.dll
+D:\Gold Project\Bussiness Layer\bin\Debug\Bussiness Layer.pdb
+D:\Gold Project\Bussiness Layer\bin\Debug\DataBase Layer.dll
+D:\Gold Project\Bussiness Layer\bin\Debug\DataBase Layer.pdb
+D:\Gold Project\Bussiness Layer\obj\Debug\Bussines.84E41DD8.Up2Date
+D:\Gold Project\Bussiness Layer\obj\Debug\Bussiness Layer.dll
+D:\Gold Project\Bussiness Layer\obj\Debug\Bussiness Layer.pdb

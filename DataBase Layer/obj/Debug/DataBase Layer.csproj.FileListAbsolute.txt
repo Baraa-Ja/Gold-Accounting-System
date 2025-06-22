@@ -1,0 +1,6 @@
+D:\Gold Project\DataBase Layer\obj\Debug\DataBase Layer.csproj.AssemblyReference.cache
+D:\Gold Project\DataBase Layer\obj\Debug\DataBase Layer.csproj.CoreCompileInputs.cache
+D:\Gold Project\DataBase Layer\bin\Debug\DataBase Layer.dll
+D:\Gold Project\DataBase Layer\bin\Debug\DataBase Layer.pdb
+D:\Gold Project\DataBase Layer\obj\Debug\DataBase Layer.dll
+D:\Gold Project\DataBase Layer\obj\Debug\DataBase Layer.pdb

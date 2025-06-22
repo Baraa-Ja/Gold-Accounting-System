@@ -1,0 +1,684 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Gold Project\\WindowsFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C61CF3AD-74FF-4E14-9D56-760D61175792}|Presentation Layer.csproj|D:\\Gold Project\\WindowsFormsApp1\\frm_transactionbills.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C61CF3AD-74FF-4E14-9D56-760D61175792}|Presentation Layer.csproj|solutionrelative:frm_transactionbills.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61CF3AD-74FF-4E14-9D56-760D61175792}|Presentation Layer.csproj|d:\\gold project\\windowsformsapp1\\frm_transactionbills.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C61CF3AD-74FF-4E14-9D56-760D61175792}|Presentation Layer.csproj|solutionrelative:frm_transactionbills.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61CF3AD-74FF-4E14-9D56-760D61175792}|Presentation Layer.csproj|D:\\Gold Project\\WindowsFormsApp1\\frm_serachforcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C61CF3AD-74FF-4E14-9D56-760D61175792}|Presentation Layer.csproj|solutionrelative:frm_serachforcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61CF3AD-74FF-4E14-9D56-760D61175792}|Presentation Layer.csproj|D:\\Gold Project\\WindowsFormsApp1\\frm_serachforcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C61CF3AD-74FF-4E14-9D56-760D61175792}|Presentation Layer.csproj|solutionrelative:frm_serachforcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2B56CAD-6473-411D-817D-6E2FF382BA6F}|..\\Bussiness Layer\\Bussiness Layer.csproj|d:\\gold project\\bussiness layer\\clscustomers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61CF3AD-74FF-4E14-9D56-760D61175792}|Presentation Layer.csproj|D:\\Gold Project\\WindowsFormsApp1\\frm_transactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C61CF3AD-74FF-4E14-9D56-760D61175792}|Presentation Layer.csproj|solutionrelative:frm_transactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61CF3AD-74FF-4E14-9D56-760D61175792}|Presentation Layer.csproj|D:\\Gold Project\\WindowsFormsApp1\\frm_adddelivery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C61CF3AD-74FF-4E14-9D56-760D61175792}|Presentation Layer.csproj|solutionrelative:frm_adddelivery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61CF3AD-74FF-4E14-9D56-760D61175792}|Presentation Layer.csproj|D:\\Gold Project\\WindowsFormsApp1\\frm_adddelivery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C61CF3AD-74FF-4E14-9D56-760D61175792}|Presentation Layer.csproj|solutionrelative:frm_adddelivery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61CF3AD-74FF-4E14-9D56-760D61175792}|Presentation Layer.csproj|D:\\Gold Project\\WindowsFormsApp1\\frm_transactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C61CF3AD-74FF-4E14-9D56-760D61175792}|Presentation Layer.csproj|solutionrelative:frm_transactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2B56CAD-6473-411D-817D-6E2FF382BA6F}|..\\Bussiness Layer\\Bussiness Layer.csproj|d:\\gold project\\bussiness layer\\clstransactionstypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61CF3AD-74FF-4E14-9D56-760D61175792}|Presentation Layer.csproj|D:\\Gold Project\\WindowsFormsApp1\\frmaddpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C61CF3AD-74FF-4E14-9D56-760D61175792}|Presentation Layer.csproj|solutionrelative:frmaddpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61CF3AD-74FF-4E14-9D56-760D61175792}|Presentation Layer.csproj|D:\\Gold Project\\WindowsFormsApp1\\frmaddpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C61CF3AD-74FF-4E14-9D56-760D61175792}|Presentation Layer.csproj|solutionrelative:frmaddpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61CF3AD-74FF-4E14-9D56-760D61175792}|Presentation Layer.csproj|D:\\Gold Project\\WindowsFormsApp1\\frm_addnewtransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C61CF3AD-74FF-4E14-9D56-760D61175792}|Presentation Layer.csproj|solutionrelative:frm_addnewtransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61CF3AD-74FF-4E14-9D56-760D61175792}|Presentation Layer.csproj|D:\\Gold Project\\WindowsFormsApp1\\frmaddeditcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C61CF3AD-74FF-4E14-9D56-760D61175792}|Presentation Layer.csproj|solutionrelative:frmaddeditcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2B56CAD-6473-411D-817D-6E2FF382BA6F}|..\\Bussiness Layer\\Bussiness Layer.csproj|d:\\gold project\\bussiness layer\\clstransactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA229444-FEA9-4342-A52F-D5AD95AC50F6}|..\\DataBase Layer\\DataBase Layer.csproj|d:\\gold project\\database layer\\clstransactionsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61CF3AD-74FF-4E14-9D56-760D61175792}|Presentation Layer.csproj|D:\\Gold Project\\WindowsFormsApp1\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C61CF3AD-74FF-4E14-9D56-760D61175792}|Presentation Layer.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61CF3AD-74FF-4E14-9D56-760D61175792}|Presentation Layer.csproj|D:\\Gold Project\\WindowsFormsApp1\\frm_transactions.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C61CF3AD-74FF-4E14-9D56-760D61175792}|Presentation Layer.csproj|solutionrelative:frm_transactions.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61CF3AD-74FF-4E14-9D56-760D61175792}|Presentation Layer.csproj|D:\\Gold Project\\WindowsFormsApp1\\frm_customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C61CF3AD-74FF-4E14-9D56-760D61175792}|Presentation Layer.csproj|solutionrelative:frm_customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61CF3AD-74FF-4E14-9D56-760D61175792}|Presentation Layer.csproj|D:\\Gold Project\\WindowsFormsApp1\\frm_customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C61CF3AD-74FF-4E14-9D56-760D61175792}|Presentation Layer.csproj|solutionrelative:frm_customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA229444-FEA9-4342-A52F-D5AD95AC50F6}|..\\DataBase Layer\\DataBase Layer.csproj|d:\\gold project\\database layer\\clscustomersdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61CF3AD-74FF-4E14-9D56-760D61175792}|Presentation Layer.csproj|D:\\Gold Project\\WindowsFormsApp1\\frm_goldvaults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C61CF3AD-74FF-4E14-9D56-760D61175792}|Presentation Layer.csproj|solutionrelative:frm_goldvaults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61CF3AD-74FF-4E14-9D56-760D61175792}|Presentation Layer.csproj|D:\\Gold Project\\WindowsFormsApp1\\frm_goldvaults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C61CF3AD-74FF-4E14-9D56-760D61175792}|Presentation Layer.csproj|solutionrelative:frm_goldvaults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61CF3AD-74FF-4E14-9D56-760D61175792}|Presentation Layer.csproj|D:\\Gold Project\\WindowsFormsApp1\\frm_dollarbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C61CF3AD-74FF-4E14-9D56-760D61175792}|Presentation Layer.csproj|solutionrelative:frm_dollarbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61CF3AD-74FF-4E14-9D56-760D61175792}|Presentation Layer.csproj|D:\\Gold Project\\WindowsFormsApp1\\frm_dollarbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C61CF3AD-74FF-4E14-9D56-760D61175792}|Presentation Layer.csproj|solutionrelative:frm_dollarbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61CF3AD-74FF-4E14-9D56-760D61175792}|Presentation Layer.csproj|D:\\Gold Project\\WindowsFormsApp1\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C61CF3AD-74FF-4E14-9D56-760D61175792}|Presentation Layer.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA229444-FEA9-4342-A52F-D5AD95AC50F6}|..\\DataBase Layer\\DataBase Layer.csproj|d:\\gold project\\database layer\\clsdeliveriesdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2B56CAD-6473-411D-817D-6E2FF382BA6F}|..\\Bussiness Layer\\Bussiness Layer.csproj|d:\\gold project\\bussiness layer\\clspayments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA229444-FEA9-4342-A52F-D5AD95AC50F6}|..\\DataBase Layer\\DataBase Layer.csproj|d:\\gold project\\database layer\\clspaymentsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA229444-FEA9-4342-A52F-D5AD95AC50F6}|..\\DataBase Layer\\DataBase Layer.csproj|d:\\gold project\\database layer\\clstransactionstypesdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61CF3AD-74FF-4E14-9D56-760D61175792}|Presentation Layer.csproj|D:\\Gold Project\\WindowsFormsApp1\\frm_customers.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C61CF3AD-74FF-4E14-9D56-760D61175792}|Presentation Layer.csproj|solutionrelative:frm_customers.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61CF3AD-74FF-4E14-9D56-760D61175792}|Presentation Layer.csproj|D:\\Gold Project\\WindowsFormsApp1\\frm_syrianbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C61CF3AD-74FF-4E14-9D56-760D61175792}|Presentation Layer.csproj|solutionrelative:frm_syrianbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61CF3AD-74FF-4E14-9D56-760D61175792}|Presentation Layer.csproj|D:\\Gold Project\\WindowsFormsApp1\\frm_syrianbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C61CF3AD-74FF-4E14-9D56-760D61175792}|Presentation Layer.csproj|solutionrelative:frm_syrianbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61CF3AD-74FF-4E14-9D56-760D61175792}|Presentation Layer.csproj|D:\\Gold Project\\WindowsFormsApp1\\frm_goldvaults.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C61CF3AD-74FF-4E14-9D56-760D61175792}|Presentation Layer.csproj|solutionrelative:frm_goldvaults.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2B56CAD-6473-411D-817D-6E2FF382BA6F}|..\\Bussiness Layer\\Bussiness Layer.csproj|d:\\gold project\\bussiness layer\\clssyrianbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2B56CAD-6473-411D-817D-6E2FF382BA6F}|..\\Bussiness Layer\\Bussiness Layer.csproj|d:\\gold project\\bussiness layer\\clscashboxes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA229444-FEA9-4342-A52F-D5AD95AC50F6}|..\\DataBase Layer\\DataBase Layer.csproj|d:\\gold project\\database layer\\clsglobal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA229444-FEA9-4342-A52F-D5AD95AC50F6}|..\\DataBase Layer\\DataBase Layer.csproj|d:\\gold project\\database layer\\clssyrianboxdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2B56CAD-6473-411D-817D-6E2FF382BA6F}|..\\Bussiness Layer\\Bussiness Layer.csproj|d:\\gold project\\bussiness layer\\clscurrencies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA229444-FEA9-4342-A52F-D5AD95AC50F6}|..\\DataBase Layer\\DataBase Layer.csproj|d:\\gold project\\database layer\\clseventloghandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Gold Project\\Bussiness Layer\\clsOperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Gold Project\\DataBase Layer\\clsOperationsData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Gold Project\\WindowsFormsApp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frm_SerachForCustomer.cs",
+              "DocumentMoniker": "D:\\Gold Project\\WindowsFormsApp1\\frm_SerachForCustomer.cs",
+              "RelativeDocumentMoniker": "frm_SerachForCustomer.cs",
+              "ToolTip": "D:\\Gold Project\\WindowsFormsApp1\\frm_SerachForCustomer.cs",
+              "RelativeToolTip": "frm_SerachForCustomer.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA2wCUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T14:26:33.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frm_SerachForCustomer.cs [Design]",
+              "DocumentMoniker": "D:\\Gold Project\\WindowsFormsApp1\\frm_SerachForCustomer.cs",
+              "RelativeDocumentMoniker": "frm_SerachForCustomer.cs",
+              "ToolTip": "D:\\Gold Project\\WindowsFormsApp1\\frm_SerachForCustomer.cs [Design]",
+              "RelativeToolTip": "frm_SerachForCustomer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T14:25:31.817Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frm_TransactionBills.cs",
+              "DocumentMoniker": "D:\\Gold Project\\WindowsFormsApp1\\frm_TransactionBills.cs",
+              "RelativeDocumentMoniker": "frm_TransactionBills.cs",
+              "ToolTip": "D:\\Gold Project\\WindowsFormsApp1\\frm_TransactionBills.cs",
+              "RelativeToolTip": "frm_TransactionBills.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAADcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T13:28:32.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frm_TransactionBills.cs [Design]",
+              "DocumentMoniker": "D:\\Gold Project\\WindowsFormsApp1\\frm_TransactionBills.cs",
+              "RelativeDocumentMoniker": "frm_TransactionBills.cs",
+              "ToolTip": "D:\\Gold Project\\WindowsFormsApp1\\frm_TransactionBills.cs [Design]",
+              "RelativeToolTip": "frm_TransactionBills.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T09:49:56.717Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frm_Transactions.cs [Design]",
+              "DocumentMoniker": "D:\\Gold Project\\WindowsFormsApp1\\frm_Transactions.cs",
+              "RelativeDocumentMoniker": "frm_Transactions.cs",
+              "ToolTip": "D:\\Gold Project\\WindowsFormsApp1\\frm_Transactions.cs [Design]",
+              "RelativeToolTip": "frm_Transactions.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T19:02:52.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frm_AddDelivery.cs [Design]",
+              "DocumentMoniker": "D:\\Gold Project\\WindowsFormsApp1\\frm_AddDelivery.cs",
+              "RelativeDocumentMoniker": "frm_AddDelivery.cs",
+              "ToolTip": "D:\\Gold Project\\WindowsFormsApp1\\frm_AddDelivery.cs [Design]",
+              "RelativeToolTip": "frm_AddDelivery.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T20:43:26.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "clsCustomers.cs",
+              "DocumentMoniker": "D:\\Gold Project\\Bussiness Layer\\clsCustomers.cs",
+              "RelativeDocumentMoniker": "..\\Bussiness Layer\\clsCustomers.cs",
+              "ToolTip": "D:\\Gold Project\\Bussiness Layer\\clsCustomers.cs",
+              "RelativeToolTip": "..\\Bussiness Layer\\clsCustomers.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAAB8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T17:47:57.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frm_Transactions.cs",
+              "DocumentMoniker": "D:\\Gold Project\\WindowsFormsApp1\\frm_Transactions.cs",
+              "RelativeDocumentMoniker": "frm_Transactions.cs",
+              "ToolTip": "D:\\Gold Project\\WindowsFormsApp1\\frm_Transactions.cs",
+              "RelativeToolTip": "frm_Transactions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T15:27:07.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frm_AddDelivery.cs",
+              "DocumentMoniker": "D:\\Gold Project\\WindowsFormsApp1\\frm_AddDelivery.cs",
+              "RelativeDocumentMoniker": "frm_AddDelivery.cs",
+              "ToolTip": "D:\\Gold Project\\WindowsFormsApp1\\frm_AddDelivery.cs",
+              "RelativeToolTip": "frm_AddDelivery.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T20:51:32.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "clsTransactionsTypes.cs",
+              "DocumentMoniker": "D:\\Gold Project\\Bussiness Layer\\clsTransactionsTypes.cs",
+              "RelativeDocumentMoniker": "..\\Bussiness Layer\\clsTransactionsTypes.cs",
+              "ToolTip": "D:\\Gold Project\\Bussiness Layer\\clsTransactionsTypes.cs",
+              "RelativeToolTip": "..\\Bussiness Layer\\clsTransactionsTypes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T15:41:11.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmAddPayment.cs [Design]",
+              "DocumentMoniker": "D:\\Gold Project\\WindowsFormsApp1\\frmAddPayment.cs",
+              "RelativeDocumentMoniker": "frmAddPayment.cs",
+              "ToolTip": "D:\\Gold Project\\WindowsFormsApp1\\frmAddPayment.cs [Design]",
+              "RelativeToolTip": "frmAddPayment.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T12:57:40.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmAddPayment.cs",
+              "DocumentMoniker": "D:\\Gold Project\\WindowsFormsApp1\\frmAddPayment.cs",
+              "RelativeDocumentMoniker": "frmAddPayment.cs",
+              "ToolTip": "D:\\Gold Project\\WindowsFormsApp1\\frmAddPayment.cs",
+              "RelativeToolTip": "frmAddPayment.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAAAHsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T20:13:08.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frm_AddNewTransaction.cs",
+              "DocumentMoniker": "D:\\Gold Project\\WindowsFormsApp1\\frm_AddNewTransaction.cs",
+              "RelativeDocumentMoniker": "frm_AddNewTransaction.cs",
+              "ToolTip": "D:\\Gold Project\\WindowsFormsApp1\\frm_AddNewTransaction.cs",
+              "RelativeToolTip": "frm_AddNewTransaction.cs",
+              "ViewState": "AgIAAK8AAAAAAAAAAAAAAFYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T17:43:45.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmAddEditCustomer.cs",
+              "DocumentMoniker": "D:\\Gold Project\\WindowsFormsApp1\\frmAddEditCustomer.cs",
+              "RelativeDocumentMoniker": "frmAddEditCustomer.cs",
+              "ToolTip": "D:\\Gold Project\\WindowsFormsApp1\\frmAddEditCustomer.cs",
+              "RelativeToolTip": "frmAddEditCustomer.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAASwDMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T17:51:41.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\Gold Project\\WindowsFormsApp1\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "D:\\Gold Project\\WindowsFormsApp1\\MainForm.cs",
+              "RelativeToolTip": "MainForm.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAASwDoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T11:41:08.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "frm_Transactions.Designer.cs",
+              "DocumentMoniker": "D:\\Gold Project\\WindowsFormsApp1\\frm_Transactions.Designer.cs",
+              "RelativeDocumentMoniker": "frm_Transactions.Designer.cs",
+              "ToolTip": "D:\\Gold Project\\WindowsFormsApp1\\frm_Transactions.Designer.cs",
+              "RelativeToolTip": "frm_Transactions.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T10:55:40.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "clsTransactions.cs",
+              "DocumentMoniker": "D:\\Gold Project\\Bussiness Layer\\clsTransactions.cs",
+              "RelativeDocumentMoniker": "..\\Bussiness Layer\\clsTransactions.cs",
+              "ToolTip": "D:\\Gold Project\\Bussiness Layer\\clsTransactions.cs",
+              "RelativeToolTip": "..\\Bussiness Layer\\clsTransactions.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAIAxwIAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T14:02:44.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "clsTransactionsData.cs",
+              "DocumentMoniker": "D:\\Gold Project\\DataBase Layer\\clsTransactionsData.cs",
+              "RelativeDocumentMoniker": "..\\DataBase Layer\\clsTransactionsData.cs",
+              "ToolTip": "D:\\Gold Project\\DataBase Layer\\clsTransactionsData.cs",
+              "RelativeToolTip": "..\\DataBase Layer\\clsTransactionsData.cs",
+              "ViewState": "AgIAAI8AAAAAAAAAAAASwJ0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T14:25:19.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "frm_Customers.cs [Design]",
+              "DocumentMoniker": "D:\\Gold Project\\WindowsFormsApp1\\frm_Customers.cs",
+              "RelativeDocumentMoniker": "frm_Customers.cs",
+              "ToolTip": "D:\\Gold Project\\WindowsFormsApp1\\frm_Customers.cs [Design]",
+              "RelativeToolTip": "frm_Customers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T07:44:55.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "frm_Customers.cs",
+              "DocumentMoniker": "D:\\Gold Project\\WindowsFormsApp1\\frm_Customers.cs",
+              "RelativeDocumentMoniker": "frm_Customers.cs",
+              "ToolTip": "D:\\Gold Project\\WindowsFormsApp1\\frm_Customers.cs",
+              "RelativeToolTip": "frm_Customers.cs",
+              "ViewState": "AgIAACIBAAAAAAAAAAArwDMBAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T10:18:51.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "clsCustomersData.cs",
+              "DocumentMoniker": "D:\\Gold Project\\DataBase Layer\\clsCustomersData.cs",
+              "RelativeDocumentMoniker": "..\\DataBase Layer\\clsCustomersData.cs",
+              "ToolTip": "D:\\Gold Project\\DataBase Layer\\clsCustomersData.cs",
+              "RelativeToolTip": "..\\DataBase Layer\\clsCustomersData.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAASwGcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T18:01:39.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "frm_GoldVaults.cs",
+              "DocumentMoniker": "D:\\Gold Project\\WindowsFormsApp1\\frm_GoldVaults.cs",
+              "RelativeDocumentMoniker": "frm_GoldVaults.cs",
+              "ToolTip": "D:\\Gold Project\\WindowsFormsApp1\\frm_GoldVaults.cs",
+              "RelativeToolTip": "frm_GoldVaults.cs",
+              "ViewState": "AgIAALsAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T09:59:40.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "frm_GoldVaults.cs [Design]",
+              "DocumentMoniker": "D:\\Gold Project\\WindowsFormsApp1\\frm_GoldVaults.cs",
+              "RelativeDocumentMoniker": "frm_GoldVaults.cs",
+              "ToolTip": "D:\\Gold Project\\WindowsFormsApp1\\frm_GoldVaults.cs [Design]",
+              "RelativeToolTip": "frm_GoldVaults.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T13:59:26.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "frm_DollarBox.cs",
+              "DocumentMoniker": "D:\\Gold Project\\WindowsFormsApp1\\frm_DollarBox.cs",
+              "RelativeDocumentMoniker": "frm_DollarBox.cs",
+              "ToolTip": "D:\\Gold Project\\WindowsFormsApp1\\frm_DollarBox.cs",
+              "RelativeToolTip": "frm_DollarBox.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAFUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T21:26:26.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "frm_DollarBox.cs [Design]",
+              "DocumentMoniker": "D:\\Gold Project\\WindowsFormsApp1\\frm_DollarBox.cs",
+              "RelativeDocumentMoniker": "frm_DollarBox.cs",
+              "ToolTip": "D:\\Gold Project\\WindowsFormsApp1\\frm_DollarBox.cs [Design]",
+              "RelativeToolTip": "frm_DollarBox.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T09:35:15.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "D:\\Gold Project\\WindowsFormsApp1\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "D:\\Gold Project\\WindowsFormsApp1\\MainForm.cs [Design]",
+              "RelativeToolTip": "MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T12:59:24.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "clsDeliveriesData.cs",
+              "DocumentMoniker": "D:\\Gold Project\\DataBase Layer\\clsDeliveriesData.cs",
+              "RelativeDocumentMoniker": "..\\DataBase Layer\\clsDeliveriesData.cs",
+              "ToolTip": "D:\\Gold Project\\DataBase Layer\\clsDeliveriesData.cs",
+              "RelativeToolTip": "..\\DataBase Layer\\clsDeliveriesData.cs",
+              "ViewState": "AgIAAM4AAAAAAAAAAAAiwO4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T09:54:46.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "clsPayments.cs",
+              "DocumentMoniker": "D:\\Gold Project\\Bussiness Layer\\clsPayments.cs",
+              "RelativeDocumentMoniker": "..\\Bussiness Layer\\clsPayments.cs",
+              "ToolTip": "D:\\Gold Project\\Bussiness Layer\\clsPayments.cs",
+              "RelativeToolTip": "..\\Bussiness Layer\\clsPayments.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAiwCoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T21:01:42.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "clsPaymentsData.cs",
+              "DocumentMoniker": "D:\\Gold Project\\DataBase Layer\\clsPaymentsData.cs",
+              "RelativeDocumentMoniker": "..\\DataBase Layer\\clsPaymentsData.cs",
+              "ToolTip": "D:\\Gold Project\\DataBase Layer\\clsPaymentsData.cs",
+              "RelativeToolTip": "..\\DataBase Layer\\clsPaymentsData.cs",
+              "ViewState": "AgIAAM8AAAAAAAAAAAAAANEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T20:57:37.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "clsTransactionsTypesData.cs",
+              "DocumentMoniker": "D:\\Gold Project\\DataBase Layer\\clsTransactionsTypesData.cs",
+              "RelativeDocumentMoniker": "..\\DataBase Layer\\clsTransactionsTypesData.cs",
+              "ToolTip": "D:\\Gold Project\\DataBase Layer\\clsTransactionsTypesData.cs",
+              "RelativeToolTip": "..\\DataBase Layer\\clsTransactionsTypesData.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAWwE4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T18:09:24.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "frm_Customers.Designer.cs",
+              "DocumentMoniker": "D:\\Gold Project\\WindowsFormsApp1\\frm_Customers.Designer.cs",
+              "RelativeDocumentMoniker": "frm_Customers.Designer.cs",
+              "ToolTip": "D:\\Gold Project\\WindowsFormsApp1\\frm_Customers.Designer.cs",
+              "RelativeToolTip": "frm_Customers.Designer.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwA0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T21:26:50.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "frm_SyrianBox.cs",
+              "DocumentMoniker": "D:\\Gold Project\\WindowsFormsApp1\\frm_SyrianBox.cs",
+              "RelativeDocumentMoniker": "frm_SyrianBox.cs",
+              "ToolTip": "D:\\Gold Project\\WindowsFormsApp1\\frm_SyrianBox.cs",
+              "RelativeToolTip": "frm_SyrianBox.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T13:53:11.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "frm_SyrianBox.cs [Design]",
+              "DocumentMoniker": "D:\\Gold Project\\WindowsFormsApp1\\frm_SyrianBox.cs",
+              "RelativeDocumentMoniker": "frm_SyrianBox.cs",
+              "ToolTip": "D:\\Gold Project\\WindowsFormsApp1\\frm_SyrianBox.cs [Design]",
+              "RelativeToolTip": "frm_SyrianBox.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T11:51:06.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "frm_GoldVaults.Designer.cs",
+              "DocumentMoniker": "D:\\Gold Project\\WindowsFormsApp1\\frm_GoldVaults.Designer.cs",
+              "RelativeDocumentMoniker": "frm_GoldVaults.Designer.cs",
+              "ToolTip": "D:\\Gold Project\\WindowsFormsApp1\\frm_GoldVaults.Designer.cs",
+              "RelativeToolTip": "frm_GoldVaults.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T18:42:45.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "clsSyrianBox.cs",
+              "DocumentMoniker": "D:\\Gold Project\\Bussiness Layer\\clsSyrianBox.cs",
+              "RelativeDocumentMoniker": "..\\Bussiness Layer\\clsSyrianBox.cs",
+              "ToolTip": "D:\\Gold Project\\Bussiness Layer\\clsSyrianBox.cs",
+              "RelativeToolTip": "..\\Bussiness Layer\\clsSyrianBox.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAowCUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T11:26:16.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "clsCashBoxes.cs",
+              "DocumentMoniker": "D:\\Gold Project\\Bussiness Layer\\clsCashBoxes.cs",
+              "RelativeDocumentMoniker": "..\\Bussiness Layer\\clsCashBoxes.cs",
+              "ToolTip": "D:\\Gold Project\\Bussiness Layer\\clsCashBoxes.cs",
+              "RelativeToolTip": "..\\Bussiness Layer\\clsCashBoxes.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwDUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T09:06:31.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "clsGlobal.cs",
+              "DocumentMoniker": "D:\\Gold Project\\DataBase Layer\\clsGlobal.cs",
+              "RelativeDocumentMoniker": "..\\DataBase Layer\\clsGlobal.cs",
+              "ToolTip": "D:\\Gold Project\\DataBase Layer\\clsGlobal.cs",
+              "RelativeToolTip": "..\\DataBase Layer\\clsGlobal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T17:37:23.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "clsSyrianBoxData.cs",
+              "DocumentMoniker": "D:\\Gold Project\\DataBase Layer\\clsSyrianBoxData.cs",
+              "RelativeDocumentMoniker": "..\\DataBase Layer\\clsSyrianBoxData.cs",
+              "ToolTip": "D:\\Gold Project\\DataBase Layer\\clsSyrianBoxData.cs",
+              "RelativeToolTip": "..\\DataBase Layer\\clsSyrianBoxData.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAtwFQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T11:26:34.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Gold Project\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Gold Project\\WindowsFormsApp1\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T13:32:27.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "clsOperations.cs",
+              "DocumentMoniker": "D:\\Gold Project\\Bussiness Layer\\clsOperations.cs",
+              "RelativeDocumentMoniker": "..\\Bussiness Layer\\clsOperations.cs",
+              "ToolTip": "D:\\Gold Project\\Bussiness Layer\\clsOperations.cs",
+              "RelativeToolTip": "..\\Bussiness Layer\\clsOperations.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAowCUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T16:26:05.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "clsOperationsData.cs",
+              "DocumentMoniker": "D:\\Gold Project\\DataBase Layer\\clsOperationsData.cs",
+              "RelativeDocumentMoniker": "..\\DataBase Layer\\clsOperationsData.cs",
+              "ToolTip": "D:\\Gold Project\\DataBase Layer\\clsOperationsData.cs",
+              "RelativeToolTip": "..\\DataBase Layer\\clsOperationsData.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwCwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T16:26:18.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "clsCurrencies.cs",
+              "DocumentMoniker": "D:\\Gold Project\\Bussiness Layer\\clsCurrencies.cs",
+              "RelativeDocumentMoniker": "..\\Bussiness Layer\\clsCurrencies.cs",
+              "ToolTip": "D:\\Gold Project\\Bussiness Layer\\clsCurrencies.cs",
+              "RelativeToolTip": "..\\Bussiness Layer\\clsCurrencies.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAwwA4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T13:35:46.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "clsEventLogHandler.cs",
+              "DocumentMoniker": "D:\\Gold Project\\DataBase Layer\\clsEventLogHandler.cs",
+              "RelativeDocumentMoniker": "..\\DataBase Layer\\clsEventLogHandler.cs",
+              "ToolTip": "D:\\Gold Project\\DataBase Layer\\clsEventLogHandler.cs",
+              "RelativeToolTip": "..\\DataBase Layer\\clsEventLogHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T13:39:23.772Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

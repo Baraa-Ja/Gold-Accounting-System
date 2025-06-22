@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C61CF3AD-74FF-4E14-9D56-760D61175792}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>WindowsFormsApp1</RootNamespace>
+    <AssemblyName>WindowsFormsApp1</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmAddEditCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAddEditCustomer.Designer.cs">
+      <DependentUpon>frmAddEditCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAddPayment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAddPayment.Designer.cs">
+      <DependentUpon>frmAddPayment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_AddDelivery.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_AddDelivery.Designer.cs">
+      <DependentUpon>frm_AddDelivery.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_AddNewTransaction.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_AddNewTransaction.Designer.cs">
+      <DependentUpon>frm_AddNewTransaction.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Customers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Customers.Designer.cs">
+      <DependentUpon>frm_Customers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_DollarBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_DollarBox.Designer.cs">
+      <DependentUpon>frm_DollarBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_GoldVaults.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_GoldVaults.Designer.cs">
+      <DependentUpon>frm_GoldVaults.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_SerachForCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_SerachForCustomer.Designer.cs">
+      <DependentUpon>frm_SerachForCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_TransactionBills.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_TransactionBills.Designer.cs">
+      <DependentUpon>frm_TransactionBills.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Transactions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Transactions.Designer.cs">
+      <DependentUpon>frm_Transactions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_SyrianBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_SyrianBox.Designer.cs">
+      <DependentUpon>frm_SyrianBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmAddEditCustomer.resx">
+      <DependentUpon>frmAddEditCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAddPayment.resx">
+      <DependentUpon>frmAddPayment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_AddDelivery.resx">
+      <DependentUpon>frm_AddDelivery.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_AddNewTransaction.resx">
+      <DependentUpon>frm_AddNewTransaction.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Customers.resx">
+      <DependentUpon>frm_Customers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_DollarBox.resx">
+      <DependentUpon>frm_DollarBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_GoldVaults.resx">
+      <DependentUpon>frm_GoldVaults.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_SerachForCustomer.resx">
+      <DependentUpon>frm_SerachForCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_TransactionBills.resx">
+      <DependentUpon>frm_TransactionBills.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Transactions.resx">
+      <DependentUpon>frm_Transactions.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_SyrianBox.resx">
+      <DependentUpon>frm_SyrianBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Bussiness Layer\Bussiness Layer.csproj">
+      <Project>{f2b56cad-6473-411d-817d-6e2ff382ba6f}</Project>
+      <Name>Bussiness Layer</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Add Person 40.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
